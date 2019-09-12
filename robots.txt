@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://zeejeeghe.carlosdelfino.eti.br/sitemap.xml
